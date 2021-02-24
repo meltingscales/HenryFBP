@@ -12,8 +12,7 @@ You can read more about my interests there.
 
 Video games, biking, computers, baking. Lots of music, rock, breakcore, rap, jazz, speedcore, electronic, etc.
 
-- Factorio
-- Minecraft
+See <https://henryfbp.github.io/interests/> for more details.
 
 ## Other
 
