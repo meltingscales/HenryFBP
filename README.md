@@ -4,7 +4,7 @@ Hello!
 
 Learning more about cybersecurity and working at U.S. Bank.
 
-See my site and resume at <https://henryfbp.github.io/>. 
+See my site and resume at <http://henrypost.net/>. 
 
 You can read more about my interests there.
 
