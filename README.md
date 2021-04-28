@@ -14,9 +14,9 @@ You can read more about my interests there.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=henryfbp)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Interests
+## Hobbies
 
 Video games, biking, computers, baking. Lots of music, rock, breakcore, rap, jazz, speedcore, electronic, etc.
 
-See <https://henryfbp.github.io/interests/> for more details.
+See http://henrypost.net/hobbies/> for more details.
 
