@@ -18,5 +18,5 @@ You can read more about my interests there.
 
 Video games, biking, computers, baking. Lots of music, rock, breakcore, rap, jazz, speedcore, electronic, etc.
 
-See http://henrypost.net/hobbies/> for more details.
+See https://henryfbp.github.io/hobbies/ for more details.
 
