@@ -10,7 +10,7 @@ You can read more about my interests there.
 
 ## wow, badges!
 
-<img src="http://www.hackthebox.eu/badge/image/517271" alt="Hack The Box">
+<!--<img src="http://www.hackthebox.eu/badge/image/517271" alt="Hack The Box">-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=henryfbp)](https://github.com/ryo-ma/github-profile-trophy)
 
