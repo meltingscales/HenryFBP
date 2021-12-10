@@ -10,9 +10,17 @@ You can read more about my interests there.
 
 ## wow, badges!
 
-<!--<img src="http://www.hackthebox.eu/badge/image/517271" alt="Hack The Box">-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=henryfbp)](https://github.com/ryo-ma/github-profile-trophy)
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=henryfbp&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=henryfbp&theme=onedark&hide_border=true"/>
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=henryfbp&row=4&theme=onedark&no-frame=true"/>
+    </a>
+</div>
 
 ## Hobbies
 
