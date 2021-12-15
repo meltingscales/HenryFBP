@@ -8,7 +8,7 @@ See my site and resume at <http://henrypost.net/>.
 
 You can read more about my interests there.
 
-## wow, badges!
+## wow, useless badges!
 
 <div>
     <a href="https://github-readme-stats.vercel.app">
