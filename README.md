@@ -4,6 +4,8 @@ Hello!
 
 Learning more about cybersecurity and working at U.S. Bank.
 
+[Currently making useless/silly Python scripts.](https://github.com/henryfbp/fgfgwk)
+
 See my site and resume at <http://henrypost.net/>. 
 
 You can read more about my interests there.
