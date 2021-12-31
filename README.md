@@ -4,7 +4,7 @@ Hello!
 
 Learning more about cybersecurity and working at U.S. Bank.
 
-[Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk) [and working on HTB](https://www.hackthebox.com/profile/517271).
+[Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).
 
 See my site and resume at <http://henrypost.net/>. 
 
