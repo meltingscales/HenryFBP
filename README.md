@@ -6,7 +6,7 @@ Learning more about cybersecurity and working at U.S. Bank.
 
 [Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).
 
-See my site and resume at <http://henrypost.net/>. 
+See my site and resume at <http://henrypost.net/>. Feel free to drop me an email to chat, etc!
 
 You can read more about my interests there.
 
