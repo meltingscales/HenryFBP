@@ -4,7 +4,9 @@ Hello!
 
 Learning more about cybersecurity and working at U.S. Bank.
 
-[Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271). [Also working on a silly ASCII game.](https://github.com/HenryFBP/LithicRivers)
+[Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).  
+
+[also working on a silly ASCII game.](https://github.com/HenryFBP/LithicRivers)
 
 See my site and resume at <http://henrypost.net/>. Feel free to drop me an email to chat, etc!
 
