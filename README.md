@@ -2,7 +2,7 @@ Hello!
 
 ## About me
 
-Learning more about cybersecurity and working at U.S. Bank.
+Having fun with `kubectl` and working at U.S. Bank.
 
 [Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).  
 
