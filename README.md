@@ -8,6 +8,8 @@ Having fun with `kubectl` and working at U.S. Bank.
 
 [Also working on a silly ASCII game.](https://github.com/HenryFBP/LithicRivers)
 
+[And sticking stickers all over my laptop.](https://devlids.com/lids/goodraboy)
+
 See my site and resume at <http://henrypost.net/>. Feel free to drop me an email to chat, etc!
 
 You can read more about my interests there.
