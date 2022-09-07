@@ -1,4 +1,4 @@
-Hello!
+Hello! Please visit <http://henrypost.net/> for more info!
 
 ## About me
 
