@@ -1,4 +1,4 @@
-Hello! Please visit <http://henrypost.net/> for more info!
+Hello! Please visit <https://linktr.ee/henryfbp> for more info!
 
 ## About me
 
@@ -10,7 +10,7 @@ Having fun with `kubectl` and working at U.S. Bank.
 
 [And sticking stickers all over my laptop.](https://devlids.com/lids/goodraboy)
 
-See my site and resume at <http://henrypost.net/>. Feel free to drop me an email to chat, etc!
+See my site and resume at <https://linktr.ee/henryfbp>. Feel free to drop me an email to chat, etc!
 
 You can read more about my interests there.
 
