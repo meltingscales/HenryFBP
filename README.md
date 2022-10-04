@@ -31,6 +31,3 @@ You can read more about my interests there.
 ## Hobbies
 
 Video games, biking, computers, baking. Lots of music, rock, breakcore, rap, jazz, speedcore, electronic, etc.
-
-See https://henryfbp.github.io/hobbies/ for more details.
-
