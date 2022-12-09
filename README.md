@@ -4,15 +4,15 @@ Hello! Please visit <https://linktr.ee/henryfbp> for more info!
 
 Having fun with `kubectl` and working at U.S. Bank.
 
-[Currently making useless/silly Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).  
+[Currently making fun Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).  
 
 [Previously worked on a silly ASCII game.](https://github.com/HenryFBP/LithicRivers)
 
-See my site and resume at <https://linktr.ee/henryfbp>. Feel free to drop me an email to chat, etc!
+See my site and resume at <https://linktr.ee/henryfbp>. Feel free to drop me an email to chat, etc.
 
 You can read more about my interests there.
 
-## wow, useless badges!
+## Github Stats
 
 <div>
     <a href="https://github-readme-stats.vercel.app">
