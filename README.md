@@ -1,5 +1,3 @@
-Hello! Please visit <https://linktr.ee/henryfbp> for more info!
-
 ## About me
 
 Enjoying `kubectl`, helm, Java, Python, Spring Boot, and more :)
