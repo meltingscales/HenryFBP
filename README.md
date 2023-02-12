@@ -1,6 +1,8 @@
 ## About me
 
-Enjoying `kubectl`, helm, Java, Python, Spring Boot, and more :)
+### Tools
+
+`kubectl`, Docker, helm, Java, Spring Boot, Python, SAST/SCA scanners, and more :)
 
 <!-- [Currently making fun Python scripts](https://github.com/henryfbp/fgfgwk), and [working on HTB](https://www.hackthebox.com/profile/517271).   -->
 
