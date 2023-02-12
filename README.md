@@ -10,6 +10,16 @@ See my site and resume at <https://linktr.ee/henryfbp>. Feel free to drop me an 
 
 You can read more about my interests there.
 
+## Professional Focus
+
+- Security scanning tools
+  - SAST, DAST, IAST, SCA
+- Automating security scanning
+- Researching open-source security standards like [OASIS SARIF](https://www.oasis-open.org/committees/sarif/), [OpenSCAP](https://www.open-scap.org/features/standards/), [CycloneDX](https://cyclonedx.org/).
+  - Having vendors support standards like these will enable the industry to work together more effectively. 
+- Targeting specific types of vulnerabilities based off of metrics.
+
+<!-- 
 ## Github Stats
 
 <div>
@@ -23,6 +33,8 @@ You can read more about my interests there.
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=henryfbp&row=4&theme=onedark&no-frame=true"/>
     </a>
 </div>
+
+-->
 
 ## Hobbies
 
