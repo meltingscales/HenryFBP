@@ -4,6 +4,10 @@ See my site and resume at <https://linktr.ee/henryfbp>. Feel free to drop me an 
 
 You can read more about my interests there.
 
+### Personal Website
+
+See <https://github.com/HenryFBP/henrypost.net>
+
 ### Tools
 
 `kubectl`, Docker, helm, Java, Spring Boot, Python, SAST/SCA scanners, and more :)
